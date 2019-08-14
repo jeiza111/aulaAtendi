@@ -14,6 +14,8 @@ namespace prova
             peixe.Idade = 2;
             Console.WriteLine(peixe.Idade);
 
+            animal gato = new animal();
+
             Console.ReadKey();
         }
     }
