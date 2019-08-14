@@ -1,0 +1,7 @@
+C:\Users\jeiza\source\repos\prova\prova\bin\Debug\prova.exe.config
+C:\Users\jeiza\source\repos\prova\prova\bin\Debug\prova.exe
+C:\Users\jeiza\source\repos\prova\prova\bin\Debug\prova.pdb
+C:\Users\jeiza\source\repos\prova\prova\obj\Debug\prova.csprojAssemblyReference.cache
+C:\Users\jeiza\source\repos\prova\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+C:\Users\jeiza\source\repos\prova\prova\obj\Debug\prova.exe
+C:\Users\jeiza\source\repos\prova\prova\obj\Debug\prova.pdb
